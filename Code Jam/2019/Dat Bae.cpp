@@ -56,8 +56,6 @@ void send(){
 
 int main(){
     
-    cout<<"Running"<<endl<<endl;
-    
     cin>>T;
     
     for(int i=0;i<T;i++){
